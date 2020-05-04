@@ -6,4 +6,4 @@ Pytorch implementation of [Image Style Transfer Using Convolutional Neural Netwo
 
 RESULTS:
 
-![Content Image](Image/content1.jpg | width = 100, height = 100)
+![Content Image](/Image/content1.jpg | width = 100, height = 100)
